@@ -10,23 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     
-//
-//    BOOL question = [inputString hasSuffix:@"?"];
-//    NSLog(@"%hhd", question);
-//    
-    
-//    BOOL question = [@"hello!" hasSuffix:@"!"];
-//    NSLog(@"%hhd", question);
-//
-//    NSString *string = @"123";
-//    NSNumber  *aNum = [NSNumber numberWithInteger: [string integerValue]];
-//    NSLog(@"%@",aNum);//NSString to NSNumber
-    
-//    NSString *randomString = @"hello world this is the first question";
-    
-    
-    
-    
     BOOL contineApp = YES;
     
     while (contineApp == YES) {
